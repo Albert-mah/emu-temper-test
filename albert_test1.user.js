@@ -2,7 +2,7 @@
 // @name         albert_test1
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @description  try to take over the world!
+// @description  emu测试用脚本
 // @author       Albert
 // @match        http://console.emusprint.com/*
 // @match        http://console.doubletick.ink/*
